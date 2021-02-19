@@ -91,3 +91,9 @@ header nav a:hover {
   margin-left: 20px;
   width: 70%;
 }
+
+.img-box {
+  height: 100%;
+  width: 100%;
+  display: block;
+}
